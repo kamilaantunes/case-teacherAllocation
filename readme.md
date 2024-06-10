@@ -1,5 +1,10 @@
 # Case - Alocação de Professores
 
+<fig>
+<img src="\images\Representacao-SistemaAlocaçãoProfessor.jpg" alt="Imagem representativa do processo do Sistema de Alocação de Professores">
+    <figcaption> Figura 1 - Representação do processo do Sistema de Alocação de Professores. </figcaption>
+</fig>
+
 ## Ferramentas
 * [Miro](https://miro.com) - Ferramenta utilizada para mapear o processo do Sistema de Alocação de Professores.
 * [Draw.io](https://app.diagrams.net/) - Software online para criar os fluxogramas do sistema, tanto o principal quanto o alternativo.
@@ -10,11 +15,6 @@
     * **R1 - Restrição de turno**: Os professores só podem ser alocados em séries de um único turno (manhã ou tarde).
     * **R2 - Restrição de qualificação**: Os professores só podem ser alocados em turmas que correspondem às suas áreas de especialização e qualificações educacionais. Os professores da série do primeiro ano somente dão aula para esta série por conta da sua qualificação, uma vez que são responsáveis pelo processo de alfabetização. Portanto, o professor somente poderá lecionar no 1° ano.
     * **R3 - Restrição de quantidade de aulas por semana**: Os professores só podem ser atribuídos a um número máximo de 20 aulas por semana, garantindo que não haja sobrecarga de trabalho e permitindo um tempo adequado para o planejamento e preparação das aulas.
-
-<fig>
-<img src="\images\Representacao-SistemaAlocaçãoProfessor.jpg" alt="Imagem representativa do processo do Sistema de Alocação de Professores">
-    <figcaption> Figura 1 - Representação do processo do Sistema de Alocação de Professores. </figcaption>
-</fig>
 
 ## Épico
 Em uma escola municipal do Ensino Fundamental I, há a necessidade de um sistema para alocação de professores às turmas de acordo com suas especializações e restrições de disponibilidade. O objetivo é otimizar a alocação de professores levando em consideração o turno, a qualificação e o limite de aulas por semana.
